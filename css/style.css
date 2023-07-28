@@ -1,0 +1,183 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    background-color: rgb(252, 248, 248);
+    color: aliceblue;
+}
+
+.container {
+    border: 5px solid rgb(8, 8, 8);
+
+}
+
+.flex-item {
+    font-size: 10px;
+    padding: 12px;
+    text-align: center;
+}
+
+.box-1 { background-color: rgb(85, 134, 118);}
+.box-2 { background-color: rgb(218, 238, 148);}
+.box-3 { background-color: rgb(136, 156, 98);}
+.box-4 { background-color: rgb(111, 193, 231);}
+.box-5 { background-color: rgb(236, 160, 98);}
+.box-6 { background-color: rgb(205, 224, 134);}
+.box-7 { background-color: rgb(55, 55, 105);}
+.box-8 { background-color: rgb(121, 77, 111);}
+.box-9 { background-color: rgb(18, 56, 43);}
+.box-10 { background-color: rgb(85, 134, 118);}
+.box-11 { background-color: rgb(218, 238, 148);}
+.box-12 { background-color: rgb(136, 156, 98);}
+
+
+.container {
+    display: flex;
+    height: 400px;
+    /* display: inline-flex; */
+
+             /* DIRECTION */
+    flex-direction: row;
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column; */
+    /* flex-direction: column-reverse; */
+
+             /* WRAP */
+    /* flex-wrap: nowrap; */
+    /* flex-wrap: wrap; */
+    /* flex-wrap: wrap-reverse; */
+    /* flex-direction: column; */
+    /* flex-wrap: nowrap; */
+    /* flex-wrap: wrap; */
+    /* flex-wrap: wrap-reverse; */
+     
+               /* FLEX-FLOW */
+    /* flex-flow = flex-direction + flex-wrap */
+    /* flex-flow: row nowrap; */
+    /* flex-flow: row wrap; */
+    /* flex-flow: row wrap-reverse; */
+    /* flex-flow: column nowrap; */
+    /* flex-flow: column wrap; */
+    /* flex-flow: column wrap-reverse; */
+
+               /* GAP PROPERTIES */
+    /* column-gap: 10px; */
+    /* row-gap: 10px; */
+    /* gap: 20px 15px; */
+    /* gap: 10px; */
+
+              /* JUSTIFY-CONTENT */
+      /* justify-content: flex-start; 
+      justify-content: flex-end; 
+      justify-content: center;
+      justify-content: space-around;
+      justify-content: space-evenly; 
+      justify-content: space-between; */  
+      
+     /*  flex-direction: column;
+      justify-content: flex-start;
+      justify-content: flex-end;
+      justify-content: center; 
+      justify-content: space-around;
+      justify-content: space-evenly; 
+      justify-content: space-between; */
+
+             /* ALIGN-ITEM */
+      align-items: stretch; 
+      align-items: flex-start; 
+      align-items: flex-end;  
+      align-items: center;   
+
+
+      
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
